@@ -1,1 +1,1 @@
-<p><video src='Gif.gif' ></p>
+<p><img src='Gif.gif' ></p>
