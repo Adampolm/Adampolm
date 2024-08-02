@@ -1,6 +1,7 @@
+<p alt="header" align="center">
+        <img src="Gif.gif" alt="Gif">
+
+</p>
 
 
-<div>
-    <img src="Gif.gif" alt="Gif">
    
-</div>
